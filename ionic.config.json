@@ -1,0 +1,7 @@
+{
+  "name": "ThisApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
